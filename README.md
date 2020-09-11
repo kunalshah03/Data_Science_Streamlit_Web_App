@@ -1,4 +1,4 @@
-# Streamlit_Web_App
+# Data Science Web App using Streamlit.
 
 A Web App Designed to visualize the dataset about the Motor Vehicle Collissions in New York City.
 Various Python Libraries used are:
