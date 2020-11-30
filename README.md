@@ -14,4 +14,4 @@ To run the app:
 
 1. pip install streamlit
 
-2. streamlit run app.py
+2. streamlit run demo.py
