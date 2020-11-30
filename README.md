@@ -12,6 +12,6 @@ Link to the dataset: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-C
 
 To run the app: 
 
-pip install streamlit
+1. pip install streamlit
 
-streamlit run app.py
+2. streamlit run app.py
