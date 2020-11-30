@@ -9,3 +9,9 @@ Various Python Libraries used are:
 5. Plotly
 
 Link to the dataset: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+
+To run the app: 
+
+pip install streamlit
+
+streamlit run app.py
